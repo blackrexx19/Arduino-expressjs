@@ -23,7 +23,7 @@ Install dependencies
 Start the server
 
 ```bash
-  node server.js
+  npn run dev
 ```
 
 ## Pastikan Pada perangkat anda terinstall
