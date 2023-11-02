@@ -15,6 +15,9 @@ Packet node yang diinstall
 npm install @serialport/parser-readline express nodemon serialport secket.io
 
 
+
+
+
 Untuk Setting Port pada file server.js di sesuaikan dengan port serial pada perangkat anda
 
 const port = new SerialPort({
